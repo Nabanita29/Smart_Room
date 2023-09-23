@@ -1,0 +1,96 @@
+Meter ID,Meter Type,Feeder,Building,Room,Description,Power used,Vacancy,Time Stamp
+ñ1ý2 Ô-1.2.Ê268.14,Smart Meter,Power3p_54,Laboratories,Room 268,Computer systems and lights are on,450,15,14-09-2023 12:15
+ñ1ý2 Ô-1.2.Ê268.15,Smart Meter,Power3p_53,Laboratories,Room 268,Computer systems and lights are on,500,20,14-09-2023 12:30
+ñ1ý2 Ô-1.2.Ê268.16,Smart Meter,Power3p_52,Laboratories,Room 268,Computer systems and lights are on,480,45,14-09-2023 12:45
+ñ1ý2 Ô-1.2.Ê268.20,Smart Meter,Power3p_58,Laboratories,Room 268,Computer systems and lights are on,420,15,14-09-2023 13:00
+ñ1ý2 Ô-1.2.Ê268.21,Smart Meter,Power3p_59,Laboratories,Room 268,Computer systems and lights are on,380,10,14-09-2023 13:15
+ñ1ý2 Ô-1.2.Ê268.27,Smart Meter,Power3p_60,Laboratories,Room 268,Computer systems and lights are on,460,20,14-09-2023 13:30
+ñ2ý1 Ô-2.1.ÖÐÏ.00,Smart Meter,Power3p_0,Administrative,CDP,Fire pumps,1600,10,14-09-2023 13:45
+ñ2ý1 Ô-2.1.ÖÐÏ.01,Smart Meter,Power3p_1,Administrative,CDP,Lights and equipment in the large conference hall; Lights and power sockets in the canteen; Lights and power sockets in the gym,2400,70,14-09-2023 14:00
+ñ2ý1 Ô-2.1.ÖÐÏ.14,Smart Meter,Power3p_14,Administrative,CDP,"Conditioners, power and computer sockets, a fridge in the office rooms 722, 723, 724, 725",2800,40,14-09-2023 14:15
+ñ2ý1 Ô-2.1.ÖÐÏ.15,Smart Meter,Power3p_15,Administrative,CDP,"Conditioners, power and computer sockets, a fridge in the office rooms 722, 723, 724, 726",1300,30,14-09-2023 14:30
+ñ2ý1 Ô-2.1.ÖÐÏ.16,Smart Meter,Power3p_16,Administrative,CDP,"Lights, power sockets, and the oven in the cafeteria",2000,45,14-09-2023 14:45
+ñ2ý1 Ô-2.1.ÖÐÏ.17,Smart Meter,Power3p_17,Administrative,CDP,"Lights, power sockets, and the oven in the cafeteria",1800,45,14-09-2023 15:00
+ñ2ý1 Ô-2.1.ÖÐÏ.18,Smart Meter,Power3p_18,Administrative,CDP,"Conditioners, heaters, power sockets in office rooms 731, 732",2000,15,14-09-2023 15:15
+ñ2ý1 Ô-2.1.ÖÐÏ.19,Smart Meter,Power3p_19,Administrative,CDP,"Lights, sockets, heaters, a conditioner, a fridge in the office rooms 731, 732, 733",1700,10,14-09-2023 15:30
+ñ2ý1 Ô-2.1.ÖÐÏ.20,Smart Meter,Power3p_43,Administrative,CDP,"Lights, sockets, heaters, a conditioner, a fridge in the office rooms 731, 732, 734",1900,20,14-09-2023 15:45
+ñ1ý2 Ô-1.2.Ê268.14,Smart Meter,Power3p_54,Laboratories,room 268,Computer systems and lights are on,450,10,14-09-2023 16:00
+ñ1ý2 Ô-1.2.Ê268.15,Smart Meter,Power3p_53,Laboratories,room 268,Computer systems and lights are on,500,70,14-09-2023 16:15
+ñ1ý2 Ô-1.2.Ê268.16,Smart Meter,Power3p_52,Laboratories,room 268,Computer systems and lights are on,480,40,14-09-2023 16:30
+ñ1ý2 Ô-1.2.Ê268.20,Smart Meter,Power3p_58,Laboratories,room 268,Computer systems and lights are on,420,30,14-09-2023 16:45
+ñ1ý2 Ô-1.2.Ê268.21,Smart Meter,Power3p_59,Laboratories,room 268,Computer systems and lights are on,380,39,14-09-2023 17:00
+ñ1ý2 Ô-1.2.Ê268.27,Smart Meter,Power3p_60,Laboratories,room 268,Computer systems and lights are on,460,8,14-09-2023 17:15
+ñ1ý2 Ô-1.2.Ê268.17,Smart Meter,Power3p_46,Laboratories,room 268,Experiment in progress,1900,7,14-09-2023 17:30
+ñ1ý2 Ô-1.2.Ê268.18,Smart Meter,Power3p_47,Laboratories,room 268,Data analysis in progress,2100,6,14-09-2023 17:45
+ñ1ý2 Ô-1.2.Ê268.19,Smart Meter,Power3p_48,Laboratories,room 268,Software Testing,1600,4,14-09-2023 18:00
+ñ1ý2 Ô-1.2.Ê268.22,Smart Meter,Power3p_49,Laboratories,room 268,Product Testing,2200,9,14-09-2023 18:15
+ñ1ý2 Ô-1.2.Ê268.23,Smart Meter,Power3p_50,Laboratories,room 268,Usability Testing,2200,8,14-09-2023 18:30
+ñ1ý2 Ô-1.2.Ê268.24,Smart Meter,Power3p_51,Laboratories,room 268,System Integration,2200,7,14-09-2023 18:45
+ñ1ý2 Ô-1.2.Ê268.28,Smart Meter,Power3p_52,Laboratories,room 268,Quality Assurance,2200,7,14-09-2023 19:00
+ñ1ý2 Ô-1.2.Ê268.29,Smart Meter,Power3p_53,Laboratories,room 268,User Interface Design,2200,70,14-09-2023 19:15
+ñ1ý2 Ô-1.2.Ê268.30,Smart Meter,Power3p_54,Laboratories,room 268,Data Encryption,2200,40,14-09-2023 19:30
+ñ1ý2 Ô-1.2.Ê268.31,Smart Meter,Power3p_55,Laboratories,room 268,Database Management,2200,30,14-09-2023 12:15
+ñ1ý2 Ô-1.2.Ê268.32,Smart Meter,Power3p_56,Laboratories,room 268,3D Printing and Prototyping,2200,20,14-09-2023 12:30
+ñ1ý2 Ô-1.2.Ê268.33,Smart Meter,Power3p_57,Laboratories,room 268,Virtual Reality (VR) Development,2200,40,14-09-2023 12:45
+ñ1ý2 Ô-1.2.Ê268.34,Smart Meter,Power3p_58,Laboratories,room 268,Augmented Reality (AR) Development,2200,11,14-09-2023 13:00
+ñ1ý2 Ô-1.2.Ê268.35,Smart Meter,Power3p_59,Laboratories,room 268,Robotics Programming,2200,11,14-09-2023 13:15
+ñ1ý2 Ô-1.2.Ê268.36,Smart Meter,Power3p_60,Laboratories,room 268,Internet of Things (IoT) Development,2200,5,14-09-2023 13:30
+ñ1ý2 Ô-1.2.Ê268.37,Smart Meter,Power3p_61,Laboratories,room 268,Data Center Management,2200,45,14-09-2023 13:45
+ñ1ý2 Ô-1.2.Ê268.38,Smart Meter,Power3p_62,Laboratories,room 268,Ethical Hacking and Penetration Testing,2200,15,14-09-2023 14:00
+ñ2ý1 Ô-2.1.ÖÐÏ.00,Smart Meter,Power3p_0,Laboratories,room 269,Research and Development (R&D),1600,10,14-09-2023 14:15
+ñ2ý1 Ô-2.1.ÖÐÏ.01,Smart Meter,Power3p_1,Laboratories,room 270,Hardware Testing and Validation,2400,20,14-09-2023 14:30
+ñ2ý1 Ô-2.1.ÖÐÏ.14,Smart Meter,Power3p_14,Laboratories,room 271,Product Lifecycle Management,2800,10,14-09-2023 14:45
+ñ2ý1 Ô-2.1.ÖÐÏ.15,Smart Meter,Power3p_15,Laboratories,room 272,Code Review and Optimization,1300,4,14-09-2023 15:00
+ñ2ý1 Ô-2.1.ÖÐÏ.16,Smart Meter,Power3p_16,Administrative,CDP,"Lights, power sockets, and the oven in the cafeteria",2000,10,14-09-2023 15:15
+ñ2ý1 Ô-2.1.ÖÐÏ.17,Smart Meter,Power3p_17,Administrative,CDP,"Lights, power sockets, and the oven in the cafeteria",1800,10,14-09-2023 15:30
+ñ2ý1 Ô-2.1.ÖÐÏ.18,Smart Meter,Power3p_18,Administrative,CDP,"Conditioners, heaters, power sockets in office rooms 731, 732",2000,70,14-09-2023 15:45
+ñ2ý1 Ô-2.1.ÖÐÏ.19,Smart Meter,Power3p_19,Administrative,CDP,"Lights, sockets, heaters, a conditioner, a fridge in the office rooms 731, 732, 733",1700,40,14-09-2023 16:00
+ñ2ý1 Ô-2.1.ÖÐÏ.20,Smart Meter,Power3p_43,Administrative,CDP,"Lights, sockets, heaters, a conditioner, a fridge in the office rooms 731, 732, 734",1900,30,14-09-2023 16:15
+ñ2ý1 Ô-2.1.ÖÐÏ.21,Smart Meter,Power3p_20,Administrative,CDP,"Sockets, lights, conditioners in the office room 738-745; Lights and power sockets in the canteen and the ground floor toilet; Lights in the gym and the ground floor halls",2100,20,14-09-2023 16:30
+ñ2ý1 Ô-2.1.ÖÐÏ.22,Smart Meter,Power3p_21,Administrative,CDP,Sockets at the ground floor,1600,40,14-09-2023 16:45
+ñ2ý1 Ô-2.1.ÖÐÏ.23,Smart Meter,Power3p_22,Administrative,CDP,"Lights, heaters, computer and power sockets in the room office room 718",2200,11,14-09-2023 17:00
+ñ2ý1 Ô-2.1.ÖÐÏ.24,Smart Meter,Power3p_23,Administrative,CDP,"Lights, heaters, computer and power sockets in the room office room 719",1500,11,14-09-2023 17:15
+ñ2ý1 Ô-2.1.ÖÐÏ.25,Smart Meter,Power3p_24,Administrative,CDP,"Lights and sockets in the lecture rooms 1, 2, 3",2300,5,14-09-2023 17:30
+ñ2ý1 Ô-2.1.ÖÐÏ.26,Smart Meter,Power3p_28,Administrative,CDP,Canteen equipment,1800,45,14-09-2023 17:45
+ñ2ý1 Ô-2.1.ÖÐÏ.27,Smart Meter,Power3p_25,Administrative,CDP,"Power sockets in the ground floor toilet, hallway near small conference hall, ventilation in the room 704",2000,15,14-09-2023 18:00
+ñ2ý1 Ô-2.1.ÖÐÏ.34,Smart Meter,Power3p_32,Administrative,CDP,Ventilation and lights in the basement storage rooms,1700,10,14-09-2023 18:15
+ñ2ý1 Ô-2.1.ÖÐÏ.35,Smart Meter,Power3p_33,Administrative,CDP,"Lights, computer sockets, and heaters in the IT server room",1900,20,14-09-2023 18:30
+ñ2ý1 Ô-2.1.ÖÐÏ.36,Smart Meter,Power3p_34,Administrative,CDP,Lights and power sockets in the finance offices,2100,10,14-09-2023 18:45
+ñ2ý1 Ô-2.1.ÖÐÏ.37,Smart Meter,Power3p_35,Administrative,CDP,"Lights, power sockets, and computer sockets in the human resources office",1600,40,14-09-2023 19:00
+ñ2ý1 Ô-2.1.ÖÐÏ.38,Smart Meter,Power3p_36,Administrative,CDP,Lights and power sockets in the common areas,2200,30,14-09-2023 19:15
+ñ2ý1 Ô-2.1.ÖÐÏ.39,Smart Meter,Power3p_37,Administrative,CDP,Lights and power sockets in the large conference hall,1500,20,14-09-2023 19:30
+ñ2ý1 Ô-2.1.ÖÐÏ.40,Smart Meter,Power3p_38,Administrative,CDP,Lights and power sockets in the small conference hall,2400,40,14-09-2023 12:15
+ñ2ý1 Ô-2.1.ÖÐÏ.41,Smart Meter,Power3p_39,Administrative,CDP,Lights and power sockets in the cafeteria kitchen,2800,11,14-09-2023 12:30
+ñ2ý1 Ô-2.1.ÖÐÏ.42,Smart Meter,Power3p_40,Administrative,CDP,Lights and power sockets in the cafeteria dining area,1300,11,14-09-2023 12:45
+ñ2ý1 Ô-2.1.ÖÐÏ.43,Smart Meter,Power3p_41,Administrative,CDP,"Lights, power sockets, and computer sockets in the main office",2000,5,14-09-2023 13:00
+ñ2ý1 Ô-2.1.ÖÐÏ.44,Smart Meter,Power3p_42,Administrative,CDP,Lights and power sockets in the ground floor toilet,1800,45,14-09-2023 13:15
+ñ2ý1 Ô-2.1.ÖÐÏ.45,Smart Meter,Power3p_43,Administrative,CDP,Lights in the gym and the ground floor halls,2000,15,14-09-2023 13:30
+ñ2ý1 Ô-2.1.ÖÐÏ.46,Smart Meter,Power3p_44,Administrative,CDP,Lights and power sockets in the basement storage rooms,1700,10,14-09-2023 13:45
+ñ2ý1 Ô-2.1.ÖÐÏ.47,Smart Meter,Power3p_45,Administrative,CDP,"Lights, computer sockets, and heaters in the IT server room",1900,20,14-09-2023 14:00
+ñ2ý1 Ô-2.1.ÖÐÏ.48,Smart Meter,Power3p_46,Administrative,CDP,Lights and power sockets in the finance offices,2100,10,14-09-2023 14:15
+ñ2ý1 Ô-2.1.ÖÐÏ.49,Smart Meter,Power3p_47,Administrative,CDP,"Lights, power sockets, and computer sockets in the human resources office",1600,70,14-09-2023 14:30
+ñ2ý1 Ô-2.1.ÖÐÏ.50,Smart Meter,Power3p_48,Administrative,CDP,Lights and power sockets in the common areas,2200,40,14-09-2023 14:45
+ñ2ý1 Ô-2.1.ÖÐÏ.51,Smart Meter,Power3p_49,Administrative,CDP,Lights and power sockets in the large conference hall,1500,30,14-09-2023 15:00
+ñ2ý1 Ô-2.1.ÖÐÏ.52,Smart Meter,Power3p_50,Administrative,CDP,Lights and power sockets in the small conference hall,2300,20,14-09-2023 15:15
+ñ2ý1 Ô-2.1.ÖÐÏ.53,Smart Meter,Power3p_51,Administrative,CDP,Lights and power sockets in the cafeteria kitchen,1800,40,14-09-2023 15:30
+ñ2ý1 Ô-2.1.ÖÐÏ.54,Smart Meter,Power3p_52,Administrative,CDP,Lights and power sockets in the cafeteria dining area,2000,11,14-09-2023 15:45
+ñ2ý1 Ô-2.1.ÖÐÏ.55,Smart Meter,Power3p_53,Administrative,CDP,"Lights, power sockets, and computer sockets in the main office",1700,11,14-09-2023 16:00
+ñ2ý1 Ô-2.1.ÖÐÏ.56,Water Usage Meter,Water1p_1,Administrative,CDP,Restroom near the finance offices,1500,5,14-09-2023 16:15
+ñ2ý1 Ô-2.1.ÖÐÏ.57,Water Usage Meter,Water1p_2,Administrative,CDP,Restroom near the human resources office,1800,45,14-09-2023 16:30
+ñ2ý1 Ô-2.1.ÖÐÏ.58,Water Usage Meter,Water1p_3,Administrative,CDP,Restroom in the common area,1200,15,14-09-2023 16:45
+ñ2ý1 Ô-2.1.ÖÐÏ.59,Water Usage Meter,Water1p_4,Administrative,CDP,Restroom in the large conference hall,2100,10,14-09-2023 17:00
+ñ2ý1 Ô-2.1.ÖÐÏ.60,Water Usage Meter,Water1p_5,Administrative,CDP,Restroom in the small conference hall,460,20,14-09-2023 17:15
+ñ1ý2 Ô-1.2.Ê268.14,Smart Meter,Power3p_54,Laboratories,room 268,Computer systems and lights are on,450,10,14-09-2023 17:30
+ñ1ý2 Ô-1.2.Ê268.15,Smart Meter,Power3p_53,Laboratories,room 268,Computer systems and lights are on,500,70,14-09-2023 17:45
+ñ1ý2 Ô-1.2.Ê268.16,Smart Meter,Power3p_52,Laboratories,room 268,Computer systems and lights are on,480,40,14-09-2023 18:00
+ñ1ý2 Ô-1.2.Ê268.20,Smart Meter,Power3p_58,Laboratories,room 268,Computer systems and lights are on,420,30,14-09-2023 18:15
+ñ1ý2 Ô-1.2.Ê268.21,Smart Meter,Power3p_59,Laboratories,room 268,Computer systems and lights are on,380,20,14-09-2023 18:30
+ñ1ý2 Ô-1.2.Ê268.27,Smart Meter,Power3p_60,Laboratories,room 268,Computer systems and lights are on,460,40,14-09-2023 18:45
+ñ1ý2 Ô-1.2.Ê268.17,Smart Meter,Power3p_46,Laboratories,room 268,Experiment in progress,1900,11,14-09-2023 19:00
+ñ1ý2 Ô-1.2.Ê268.17,Smart Meter,Power3p_46,Laboratories,room 268,Experiment in progress,1900,11,14-09-2023 19:15
+ñ1ý2 Ô-1.2.Ê268.18,Smart Meter,Power3p_45,Office,HR Office,HR Department,500,5,14-09-2023 19:30
+ñ1ý2 Ô-1.2.Ê268.19,Smart Meter,Power3p_45,Office,Meeting Room 1,Conference with Clients,300,45,15-09-2023 19:30
+ñ1ý2 Ô-1.2.Ê268.20,Smart Meter,Power3p_46,Conference,Hall A,Workshop Event,800,15,16-09-2023 19:30
+ñ1ý2 Ô-1.2.Ê268.21,Smart Meter,Power3p_46,Conference,Hall B,Training Session,600,10,17-09-2023 19:30
+ñ1ý2 Ô-1.2.Ê268.22,Smart Meter,Power3p_47,Cafeteria,Dining Area,Lunchtime Rush,1200,20,18-09-2023 19:30
+ñ1ý2 Ô-1.2.Ê268.23,Smart Meter,Power3p_47,Cafeteria,Kitchen,Cooking,2500,10,19-09-2023 19:30
