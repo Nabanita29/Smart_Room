@@ -371,7 +371,7 @@ def waste_prediction(new_image):
 waste_prediction(r"C:\Users\Anant Roop Mathur\Downloads\Waste_Detection_Dataset\data\batch_1/000008.jpg")
 
 
-# In[ ]:
+
 
 
 
