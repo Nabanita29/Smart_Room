@@ -40,7 +40,7 @@ In case you're using a Jupyter notebook, make sure it's installed. If not, insta
 `pip install jupyter`
 
 
-## Project Content / Use of Data Science for 
+## Project Content / Use of Data Science for Electricity control
 The scripts in this repository provide functionality for:
 
 1. Handling missing data, scaling numerical values, encoding categorical values.
@@ -53,9 +53,39 @@ The scripts in this repository provide functionality for:
 8. Adjusting various device settings in a room to optimize power usage.
 9. The scripts are commented and divided into sections that provide different functionalities.
 
-The final part of the script optimizes the settings for power usage in different rooms using various machine learning models. With this system, you can obtain recommendations to adjust the lighting and heating systems in the room to optimize energy usage.
-
 ## Output
+
+![image](https://github.com/Nabanita29/Smart_Room/assets/107246882/f7400565-806a-4408-8d2e-2dab667e5653)     
+![image](https://github.com/Nabanita29/Smart_Room/assets/107246882/55291d6d-2a8f-4885-b491-0fe9330ab273)       
+![image](https://github.com/Nabanita29/Smart_Room/assets/107246882/3d0ddf84-1037-43d1-96f1-e91251c7c54c)               
+![image](https://github.com/Nabanita29/Smart_Room/assets/107246882/fda7e058-80f7-4a0e-902f-ebf2d42cfb14)      
+![image](https://github.com/Nabanita29/Smart_Room/assets/107246882/085103a2-a004-49d7-962f-b1c2ca626c89)
+
+
+## Use of Data Science for waste detection
+
+The project includes a machine learning component for waste detection. It leverages pre-trained models and image classification techniques to identify different types of waste items. Here's a brief overview of this component:
+
+### Machine Learning Model
+
+We use a pre-trained VGG16 model, fine-tuned for waste detection, to classify waste items into various categories. The model is trained on a dataset containing images of waste items.
+
+### Usage
+
+To use the waste detection model, you can follow these steps:
+
+1. Prepare an image containing the waste item you want to classify.
+
+2. Load the image using the `waste_prediction` function, providing the file path to the image.
+
+3. The model will process the image and provide a prediction for the type of waste detected.
+
+### Example
+
+
+https://github.com/Nabanita29/Smart_Room/assets/107246882/848d8926-c6d5-4e62-9726-b195ea383772
+
+
 
 ## Conclusion
 This project is merely a baseline. As more data is accumulated, we can refine our model to improve our prediction accuracy and make the Smart Room Energy Optimization system even more effective. Continuous model training and implementation of other AI practices can make this project more sustainable and helpful.
