@@ -2,6 +2,11 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import MinMaxScaler, OneHotEncoder
+from sklearn.svm import SVR
+from sklearn.neighbors import KNeighborsRegressor
+from sklearn.ensemble import AdaBoostRegressor
+from xgboost import XGBRegressor
+
 
 # Read the dataset
 dataset = pd.read_csv('/content/devices_power.csv', encoding='latin1')
@@ -161,6 +166,42 @@ y_pred = model.predict(X_test)
 # Evaluate the model
 mse = mean_squared_error(y_test, y_pred)
 print(f"Mean Squared Error : {mse}")
+
+models = [
+    LinearRegression(),
+    DecisionTreeRegressor(),
+    RandomForestRegressor(),
+    GradientBoostingRegressor(),
+]
+
+def train_and_evaluate_model(model, X_train, X_test, y_train, y_test):
+    model.fit(X_train, y_train)
+    y_pred = model.predict(X_test)
+    mse = mean_squared_error(y_test, y_pred)
+    print(f"Model: {model.__class__.__name__}, Mean Squared Error: {mse}")
+    
+from sklearn.model_selection import GridSearchCV
+
+# Define parameters for GridSearchCV
+params = { 
+    'SVR':              {'C': [0.1, 1, 10, 100], 'kernel': ['linear', 'rbf'], 'gamma': ['scale', 'auto']},
+    'KNeighborsRegressor': {'n_neighbors': [2, 3, 4, 5, 10], 'weights': ['uniform', 'distance'], 'algorithm': ['auto', 'ball_tree', 'kd_tree', 'brute']},
+    'AdaBoostRegressor': { 'n_estimators': [50, 100, 200], 'learning_rate': [0.01, 0.1, 1], 'loss': ['linear', 'square', 'exponential']},
+    'XGBRegressor':      {'n_estimators': [100, 200, 300], 'learning_rate': [0.01, 0.1, 1], 'booster': ['gbtree', 'gblinear']}
+}
+
+for model in models:
+    model_name = model.__class__.__name__
+    print(f"\n---- Optimizing and Evaluating {model_name} ----")
+    
+    # Do a Grid Search to find optimal parameters if defined
+    if model_name in params:
+        grid = GridSearchCV(model, params[model_name], cv=5)
+        grid.fit(X_train, y_train)
+        model = grid.best_estimator_  # Redefine 'model' with optimized parameters
+        print(f"Optimal Parameters: {grid.best_params_}")
+        
+    train_and_evaluate_model(model, X_train, X_test, y_train, y_test)
 
 
 from sklearn.ensemble import GradientBoostingRegressor
