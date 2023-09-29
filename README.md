@@ -85,8 +85,18 @@ To use the waste detection model, you can follow these steps:
 
 https://github.com/Nabanita29/Smart_Room/assets/107246882/848d8926-c6d5-4e62-9726-b195ea383772
 
-
-
 ## Conclusion
-This project is merely a baseline. As more data is accumulated, we can refine our model to improve our prediction accuracy and make the Smart Room Energy Optimization system even more effective. Continuous model training and implementation of other AI practices can make this project more sustainable and helpful.
+
+The Smart Room Energy Optimization project serves as a foundational framework for optimizing power usage within various rooms of a building. While it offers valuable insights and suggestions for improving energy efficiency based on existing data, it's important to note that this project is just the beginning of what can be achieved in the realm of smart energy management.
+
+As we gather more data and insights, there is immense potential to refine our models and algorithms, ultimately leading to more accurate predictions and even greater energy optimization. Continuous model training, the integration of cutting-edge AI practices, and ongoing research can further enhance the capabilities of the Smart Room Energy Optimization system.
+
+In addition to its energy optimization features, the project includes a waste detection component that uses machine learning to identify different types of waste items. This innovative addition opens doors to efficient waste management strategies within smart rooms.
+
+
+## License
+
+This project is open-source and is released under the [MIT License](LICENSE.md). You are free to use, modify, and distribute this software within the terms and conditions specified in the license.
+
+
 
