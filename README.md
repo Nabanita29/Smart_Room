@@ -1,5 +1,5 @@
 # Smart_Room
-
+# Second position GeeksForGeeks Ecotech Hackathon
 ## Overview
 
 This repository contains the Python code for an intelligent system that aims at optimizing the power usage in a building's various rooms. It takes into account the energy consumption patterns, room vacancy rates, and other specific room centric details to provide meaningful insights and suggestions to improve energy usage efficiency. The system also provides a feedback mechanism to adjust settings of various devices (like lights and heating systems) in a room to optimize power usage.
